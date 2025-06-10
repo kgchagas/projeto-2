@@ -1,0 +1,67 @@
+body {
+    background-color:#f3a8c2;
+}
+/* Estilos para a navbar */
+nav {
+    background: #f79fbe;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+nav .navbar-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .navbar-logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #222;
+    font-weight: bold;
+    font-size: 1.2rem;
+    position: relative;
+    left: -150px;
+}
+nav .navbar-logo img {
+    display: flex;
+    position: relative;
+    height: 80x;
+    width: 70px;
+    margin-right: 10px;
+}
+nav .navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    margin: 0;
+    padding: 0;
+}
+nav .navbar-links li a {
+    text-decoration: none;
+    color: #222;
+    font-size: 1rem;
+    transition: color 0.2s;
+}
+nav .navbar-links li a:hover {
+    color: #ffffff;
+}
+
+    
+
+h1 {
+    font-family: '"PT Sans Narrow", sans-serif';
+    color: #171616;
+    position: center;
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 1rem 0;
+}
+h2 {
+    font-family: '"PT Sans Narrow", sans-serif';
+    color: #282525;
+    font-size: 2rem;
+    margin: 1rem 0;
+}
