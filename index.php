@@ -17,17 +17,30 @@
                 <img src="logo.png" alt="Logo"> Espaço Rennova
             </a>
             <ul class="navbar-links">
-                <li><a href="#servicos">Serviços</a></li>
+                <li><a href="serviços.php">Serviços</a></li>
                 <li><a href="#contato">Contato</a></li>
-                <li><a href="#login">Login</a></li>
+                <li><a href="#localizaçao">localização</a></li>
             </ul>
         </div>
     </nav>
     <H1>Massoterapia no Espaço Rennova</H1>
     <h2>Cuidando do seu corpo, mente e bem-estar.</h2>
-    No Espaço Rennova, oferecemos uma experiência completa em massoterapia, 
-    com foco no equilíbrio físico e emocional.
-     Contamos com profissionais especializados e técnicas modernas para proporcionar alívio,
-      estética e saúde
+    <p>No Espaço Rennova, oferecemos uma experiência completa em massoterapia, 
+    com foco no equilíbrio físico e emocional dos nossos clientes
+    através de técnicas especializadas.
+   
+        </ul>
+    </section>
+    <section id="contato">
+        <h1>Contato</h1>
+        <p>Para agendar uma sessão ou obter mais informações, entre em contato conosco:</p>
+        <ul>
+            <li>Telefone: (44) 99915-2614</li>
+            <li>Email:
+            <a href="mailto:
+
+
+
+      
 </body>
 </html>
